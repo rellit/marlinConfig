@@ -1,4 +1,4 @@
 # marlinConfig
 
-Die files stammen aus C:\Users\Tim\Downloads\Configurations-release-2.0.9.1 - Creality Ender 3 Pro - V422
-und enthalten die aktuellen Firmeware configs...
+Die Originale kommen aus:
+https://github.com/MarlinFirmware/Configurations/tree/release-2.1.1/config/examples/Creality/Ender-3%20Pro/CrealityV422
